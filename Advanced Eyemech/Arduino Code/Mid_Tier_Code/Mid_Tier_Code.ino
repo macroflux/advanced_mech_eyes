@@ -1,4 +1,3 @@
-//  Nilheim Mechatronics Simplified Eye Mechanism Code
 //  Make sure you have the Adafruit servo driver library installed >>>>> https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
 //  X-axis joystick pin: A1
 //  Y-axis joystick pin: A0
@@ -109,3 +108,4 @@ void loop() {
 
 
 }
+
